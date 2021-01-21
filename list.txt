@@ -1,0 +1,2 @@
+1. list의 초기화
+   initList=[value]*(length of list)
