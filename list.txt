@@ -7,6 +7,9 @@
    n=3, m=4
    array=[[0]*m for _ in range(n)]
 
+4. 2차원 list의 정렬
+   arr.sort(key=lambda x:x[1])
+
 ** list 관련 function
 list=[]
 list.append()		:리스트에 원소를 하나 삽입
